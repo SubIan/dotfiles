@@ -1,0 +1,48 @@
+separator_block_width=14
+
+[disk-root]
+label=
+command=/usr/lib/i3blocks/disk /
+interval=30
+color=#66d9ef
+
+[ssid]
+label=
+command=echo "$(iw wlp3s0 link | grep SSID | cut -d " " -f 2-)"
+color=#ae81ff
+interval=5
+
+[wireless]
+instance=wlp3s0
+command=/usr/lib/i3blocks/iface
+color=#a6e22e
+interval=10
+
+[strength]
+command=echo "$(iw wlp3s0 link | grep signal | cut -d " " -f 2-)"
+interval=10
+color=#f92672
+
+[temp]
+label=
+command=echo "$(sensors coretemp-isa-0000 | awk '/Physical/ {print $4}')"
+interval=10
+color=#fd971f
+
+[battery]
+command=/home/ian/scripts/battery BAT0
+interval=30
+
+[volume]
+label=
+command=/usr/lib/i3blocks/volume
+interval=2
+signal=10
+color=#cc6633
+
+
+[time]
+label=
+command=date '+%a %m-%d-%y %l:%M %p'
+interval=5
+color=#a1efe4

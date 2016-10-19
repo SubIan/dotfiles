@@ -1,0 +1,72 @@
+!urxvt color scheme:
+#include "/home/ian/.colors/theme"
+
+URxvt*.foreground:   base05
+URxvt*.background:   base00
+URxvt*.cursorColor:  base05
+
+URxvt*.color0:       base00
+URxvt*.color1:       base08
+URxvt*.color2:       base0B
+URxvt*.color3:       base0A
+URxvt*.color4:       base0D
+URxvt*.color5:       base0E
+URxvt*.color6:       base0C
+URxvt*.color7:       base05
+
+URxvt*.color8:       base03
+URxvt*.color9:       base08
+URxvt*.color10:      base0B
+URxvt*.color11:      base0A
+URxvt*.color12:      base0D
+URxvt*.color13:      base0E
+URxvt*.color14:      base0C
+URxvt*.color15:      base07
+
+URxvt*transparent:   true
+URxvt*shading:	     20
+
+!urxvt fonts: 
+
+URxvt*font: xft:Consolas:pixelsize=12
+!URxvt*font: xft:System San Francisco Display Regular:pixelsize=12
+URxvt*boldFont: xft:Consolas:bold:pixelsize=12
+!URxvt*boldFont: xft:System San Francisco Display Bold:bold:pixelsize=12
+
+
+!urxvt extensions:
+
+!URxvt.perl-ext-common:  default,matcher,tabbedex
+
+!enabling clickable links:
+
+URxvt.urlLauncher:      /usr/bin/chromium
+URxvt.matcher.button:   1 
+
+!urxvt scrolling options and cursor style:
+
+URxvt*saveLines: 12000
+URxvt*scrollstyle:plain
+URxvt*scrollBar: false
+URxvt*cursorBlink: true
+URxvt*cursorUnderline: true
+
+! urxvt tabs settings:
+
+URxvt.tabbed.tabbar-fg: 2
+URxvt.tabbed.tabbar-bg: 0
+URxvt.tabbed.tab-fg: 2
+URxvt.tabbed.tab-bg: 8
+URxvt.tabbed.autohide:  yes
+URxvt.tabbed.new-button:  no
+URxvt.tabbed.title: no
+
+! rofi configuration
+rofi.padding: 12
+rofi.borderwidth: 0 
+rofi.fullscreen: false
+rofi.color-enabled: true
+rofi.color-window: base01, base01, base01
+rofi.color-normal: base01, base0D, base01, base0D, base00
+rofi.color-active: base01, base0D, base01, base0D, base00
+rofi.color-urgent: base01, base08, base01, base08, base00

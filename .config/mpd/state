@@ -1,0 +1,57 @@
+sw_volume: 82
+audio_device_state:1:mpd alsamixer-output
+audio_device_state:1:toggle_visualizer
+state: pause
+current: 16
+time: 10.541000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/01 BIOS.flac
+1:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/01 BIOS.flac
+2:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/02 My Machine.flac
+3:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/03 Frozen Flame.flac
+4:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/04 Gunshots.flac
+5:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/05 Megaflora.flac
+6:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/06 Ecco Chamber.flac
+7:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/07 Holograffiti.flac
+8:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/08 XENOS.flac
+9:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/09 Sandclock.flac
+10:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/10 Hungry Ghost.flac
+11:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/11 Web Ring.flac
+12:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/12 Meteor Blade.flac
+13:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/13 JUNO.flac
+14:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/14 Cerulean.flac
+15:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/15 EXOS.flac
+16:VA - Circus One [WEB-FLAC] (2011)/09. Doctor P - Sweet Shop.flac
+17:VA - Circus One [WEB-FLAC] (2011)/15. Flux Pavilion - Got 2 Know.flac
+18:VA - Circus One [WEB-FLAC] (2011)/15. Flux Pavilion - Got 2 Know.flac
+19:VA - Circus One [WEB-FLAC] (2011)/14. Doctor P - Big Boss.flac
+20:VA - Circus One [WEB-FLAC] (2011)/01. Flux Pavilion - Bass Cannon.flac
+21:VA - Circus One [WEB-FLAC] (2011)/01. Flux Pavilion - Bass Cannon.flac
+22:VA - Circus One [WEB-FLAC] (2011)/13. FuntCase - 50 Calibre.flac
+23:VA - Circus One [WEB-FLAC] (2011)/12. Doctor P - Watch Out.flac
+24:VA - Circus One [WEB-FLAC] (2011)/11. Flux Pavilion - Lines In Wax.flac
+25:VA - Circus One [WEB-FLAC] (2011)/10. Roksonix - 2 Bad.flac
+26:VA - Circus One [WEB-FLAC] (2011)/09. Doctor P - Sweet Shop.flac
+27:VA - Circus One [WEB-FLAC] (2011)/08. Cookie Monsta - Mosh Pit.flac
+28:VA - Circus One [WEB-FLAC] (2011)/07. Flux Pavilion - Voscillate (Roksonix Remix).flac
+29:VA - Circus One [WEB-FLAC] (2011)/06. Cookie Monsta - Bubble Trouble.flac
+30:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/01 BIOS.flac
+31:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/09 Sandclock.flac
+32:Blank Banshee/Blank Banshee - MEGA (2016) [FLAC] [16-44]/01 BIOS.flac
+33:Preoccupations - Preoccupations (2016) [FLAC]/01 Anxiety.flac
+34:Preoccupations - Preoccupations (2016) [FLAC]/02 Monotony.flac
+35:Preoccupations - Preoccupations (2016) [FLAC]/03 Zodiac.flac
+36:Preoccupations - Preoccupations (2016) [FLAC]/04 Memory.flac
+37:Preoccupations - Preoccupations (2016) [FLAC]/05 Degraded.flac
+38:Preoccupations - Preoccupations (2016) [FLAC]/06 Sense.flac
+39:Preoccupations - Preoccupations (2016) [FLAC]/07 Forbidden.flac
+40:Preoccupations - Preoccupations (2016) [FLAC]/08 Stimulation.flac
+41:Preoccupations - Preoccupations (2016) [FLAC]/09 Fever.flac
+playlist_end

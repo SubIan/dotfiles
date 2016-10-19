@@ -1,0 +1,27 @@
+[Configuration]
+MiscAlwaysShowTabs=FALSE
+MiscBell=FALSE
+MiscBordersDefault=FALSE
+MiscCursorBlinks=FALSE
+MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
+MiscDefaultGeometry=80x24
+MiscInheritGeometry=FALSE
+MiscMenubarDefault=FALSE
+MiscMouseAutohide=FALSE
+MiscToolbarDefault=FALSE
+MiscConfirmClose=TRUE
+MiscCycleTabs=TRUE
+MiscTabCloseButtons=TRUE
+MiscTabCloseMiddleClick=TRUE
+MiscTabPosition=GTK_POS_TOP
+MiscHighlightUrls=TRUE
+BackgroundDarkness=0.800000
+BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
+FontName=Inconsolata 12
+ScrollingBar=TERMINAL_SCROLLBAR_NONE
+ColorPalette=#1f1f1f1f1f1f;#ffff5d3d56de;#6464fcfc8940;#0000a7a7ffff;#0000a747ffff;#fcfc6464ea11;#0000f176ffff;#cc62cc62cc62;#9a9a9a9a9a9a;#ffffb129adc1;#0000ffffaa2f;#ffffffff3bdf;#0000da04ffff;#ffffc1a8f189;#c914fffffb22;#ffffffffffff
+ColorForeground=#ed7aed7aed7a
+ColorBackground=#1f1f1f1f1f1f
+ColorCursor=#f083f083f083
+TabActivityColor=#1e1e1e1e1e1e
+
